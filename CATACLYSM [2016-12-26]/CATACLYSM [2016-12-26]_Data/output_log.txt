@@ -1,0 +1,135 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5384]
+    Renderer: NVIDIA GeForce 920M       
+    Vendor:   NVIDIA
+    VRAM:     1997 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rob\Documents\Game Projects\Cataclysm Game\Builds\2016 builds\CATACLYSM [2016-12-26]\CATACLYSM [2016-12-26]_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.623359 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.645331 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 11900.
+Total: 4.205223 ms (FindLiveObjects: 0.592639 ms CreateObjectMapping: 0.371626 ms MarkObjects: 3.170130 ms  DeleteObjects: 0.069546 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 97.131004 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 11900.
+Total: 4.313596 ms (FindLiveObjects: 0.671572 ms CreateObjectMapping: 0.295679 ms MarkObjects: 3.205970 ms  DeleteObjects: 0.139519 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 127.153381 ms
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 3951.
+Total: 1.601278 ms (FindLiveObjects: 0.256426 ms CreateObjectMapping: 0.090026 ms MarkObjects: 0.819199 ms  DeleteObjects: 0.433919 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.341647 ms
+
+Unloading 144 unused Assets to reduce memory usage. Loaded Objects now: 5001.
+Total: 1.838078 ms (FindLiveObjects: 0.276053 ms CreateObjectMapping: 0.130133 ms MarkObjects: 1.242878 ms  DeleteObjects: 0.169386 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.132675 ms
+
+Unloading 216 unused Assets to reduce memory usage. Loaded Objects now: 4841.
+Total: 1.825278 ms (FindLiveObjects: 0.253866 ms CreateObjectMapping: 0.092586 ms MarkObjects: 1.005225 ms  DeleteObjects: 0.472746 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.034655 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 6339.
+Total: 1.848745 ms (FindLiveObjects: 0.385706 ms CreateObjectMapping: 0.139946 ms MarkObjects: 1.217705 ms  DeleteObjects: 0.104533 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.827492 ms
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 7971.
+Total: 2.395304 ms (FindLiveObjects: 0.384426 ms CreateObjectMapping: 0.151893 ms MarkObjects: 1.728851 ms  DeleteObjects: 0.129706 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.208721 ms
+
+Unloading 194 unused Assets to reduce memory usage. Loaded Objects now: 3940.
+Total: 1.573118 ms (FindLiveObjects: 0.216319 ms CreateObjectMapping: 0.081493 ms MarkObjects: 0.831999 ms  DeleteObjects: 0.442879 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.559673 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 8027.
+Total: 2.507091 ms (FindLiveObjects: 0.378453 ms CreateObjectMapping: 0.181333 ms MarkObjects: 1.902078 ms  DeleteObjects: 0.044799 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.836773 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 8027.
+Total: 2.651304 ms (FindLiveObjects: 0.381866 ms CreateObjectMapping: 0.215466 ms MarkObjects: 1.963944 ms  DeleteObjects: 0.089173 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 66.699463 ms
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 5001.
+Total: 1.659305 ms (FindLiveObjects: 0.239786 ms CreateObjectMapping: 0.097706 ms MarkObjects: 1.227945 ms  DeleteObjects: 0.093013 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.945263 ms
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 7971.
+Total: 3.571623 ms (FindLiveObjects: 0.405759 ms CreateObjectMapping: 0.160426 ms MarkObjects: 2.567677 ms  DeleteObjects: 0.436906 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.604347 ms
+
+Unloading 128 unused Assets to reduce memory usage. Loaded Objects now: 6339.
+Total: 2.442237 ms (FindLiveObjects: 0.361813 ms CreateObjectMapping: 0.178346 ms MarkObjects: 1.502292 ms  DeleteObjects: 0.379733 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.757428 ms
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 6339.
+Total: 2.056104 ms (FindLiveObjects: 0.340479 ms CreateObjectMapping: 0.163839 ms MarkObjects: 1.390505 ms  DeleteObjects: 0.159999 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.601576 ms
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 7971.
+Total: 2.545491 ms (FindLiveObjects: 0.408319 ms CreateObjectMapping: 0.157013 ms MarkObjects: 1.852158 ms  DeleteObjects: 0.127146 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.118711 ms
+
+Unloading 149 unused Assets to reduce memory usage. Loaded Objects now: 7971.
+Total: 2.657277 ms (FindLiveObjects: 0.360106 ms CreateObjectMapping: 0.161706 ms MarkObjects: 1.981438 ms  DeleteObjects: 0.152746 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.343548 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 7971.
+Total: 2.487464 ms (FindLiveObjects: 0.393386 ms CreateObjectMapping: 0.150186 ms MarkObjects: 1.926398 ms  DeleteObjects: 0.017066 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 34.988342 ms
+
+Unloading 538 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 1.990398 ms (FindLiveObjects: 0.112213 ms CreateObjectMapping: 0.069973 ms MarkObjects: 0.558079 ms  DeleteObjects: 1.249705 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 37c4 -> priority: 1 
