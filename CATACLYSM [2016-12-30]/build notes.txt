@@ -1,0 +1,18 @@
+Dec-30-2016 update notes
+
+- spike trap: sprite updated to make warning flash more visible
+
+Stage Changes:
+- Blast Valley:
+	- Extra spring platforms added to bottom
+	- Most stone replaced with dirt
+- Cataclysm:
+	- Player starting areas lowered; top portal lowered slightly
+- Chain Reaction:
+	- Ceiling added
+- Divided:
+	- Glass path to Ghost Bomb and other player's side added
+- Risky Business
+	- Some blocks replaced with glass
+
+- Other small changes
