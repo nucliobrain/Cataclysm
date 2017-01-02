@@ -1,0 +1,6 @@
+Jan-01-2017 update notes
+
+Only small changes made
+- Changed some help text
+- Added circle icons where missing
+- Added stars background to Blast Valley
